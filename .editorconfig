@@ -1,0 +1,16 @@
+[*.cs]
+
+# CA1305: Specify IFormatProvider
+dotnet_diagnostic.CA1305.severity = none
+[*.cs]
+
+# CA1305: Specify IFormatProvider
+dotnet_diagnostic.CA1305.severity = none
+[*.cs]
+
+# CA1305: Specify IFormatProvider
+dotnet_diagnostic.CA1305.severity = none
+[*.cs]
+
+# CA1305: Specify IFormatProvider
+dotnet_diagnostic.CA1305.severity = none

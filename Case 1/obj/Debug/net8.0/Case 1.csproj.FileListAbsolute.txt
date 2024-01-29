@@ -1,0 +1,14 @@
+C:\Velo Games\Case 1\Case 1\bin\Debug\net8.0\Case 1.exe
+C:\Velo Games\Case 1\Case 1\bin\Debug\net8.0\Case 1.deps.json
+C:\Velo Games\Case 1\Case 1\bin\Debug\net8.0\Case 1.runtimeconfig.json
+C:\Velo Games\Case 1\Case 1\bin\Debug\net8.0\Case 1.dll
+C:\Velo Games\Case 1\Case 1\bin\Debug\net8.0\Case 1.pdb
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\Case 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\Case 1.AssemblyInfoInputs.cache
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\Case 1.AssemblyInfo.cs
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\Case 1.csproj.CoreCompileInputs.cache
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\Case 1.dll
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\refint\Case 1.dll
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\Case 1.pdb
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\Case 1.genruntimeconfig.cache
+C:\Velo Games\Case 1\Case 1\obj\Debug\net8.0\ref\Case 1.dll
